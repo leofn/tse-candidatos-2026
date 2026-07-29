@@ -1,0 +1,7 @@
+dados/*.zip
+dados/leiame.pdf
+dados/*_leiame.pdf
+*.pdf
+__pycache__/
+*.pyc
+.DS_Store
