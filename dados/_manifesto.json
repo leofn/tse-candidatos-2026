@@ -1,6 +1,6 @@
 {
   "ano": 2026,
-  "data_extracao": "2026-11-01",
+  "data_extracao": "2026-11-02",
   "fonte": "TSE - Tribunal Superior Eleitoral",
   "url_fonte": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026",
   "licenca": "Creative Commons Atribuição",
@@ -67,7 +67,7 @@
         "consulta_cand_complementar_2026_SP.csv",
         "consulta_cand_complementar_2026_TO.csv"
       ],
-      "tamanho_zip": 3288008
+      "tamanho_zip": 3291347
     },
     "info_complementares": {
       "zip": "consulta_cand_complementar_2026.zip",
@@ -102,7 +102,7 @@
         "consulta_cand_complementar_2026_SP.csv",
         "consulta_cand_complementar_2026_TO.csv"
       ],
-      "tamanho_zip": 1358931
+      "tamanho_zip": 1359585
     },
     "bens": {
       "zip": "bem_candidato_2026.zip",
@@ -137,7 +137,7 @@
         "bem_candidato_2026_SP.csv",
         "bem_candidato_2026_TO.csv"
       ],
-      "tamanho_zip": 3761063
+      "tamanho_zip": 3758440
     },
     "coligacoes": {
       "zip": "consulta_coligacao_2026.zip",
@@ -172,7 +172,7 @@
         "consulta_coligacao_2026_SP.csv",
         "consulta_coligacao_2026_TO.csv"
       ],
-      "tamanho_zip": 348464
+      "tamanho_zip": 349605
     },
     "vagas": {
       "zip": "consulta_vagas_2026.zip",
@@ -207,7 +207,7 @@
         "consulta_vagas_2026_SP.csv",
         "consulta_vagas_2026_TO.csv"
       ],
-      "tamanho_zip": 184061
+      "tamanho_zip": 184092
     },
     "cassacao": {
       "zip": "motivo_cassacao_2026.zip",
@@ -242,7 +242,7 @@
         "motivo_cassacao_2026_SP.csv",
         "motivo_cassacao_2026_TO.csv"
       ],
-      "tamanho_zip": 130987
+      "tamanho_zip": 131131
     },
     "redes_sociais": {
       "zip": "rede_social_candidato_2026.zip",
@@ -277,7 +277,7 @@
         "rede_social_candidato_2026_SP.csv",
         "rede_social_candidato_2026_TO.csv"
       ],
-      "tamanho_zip": 3004072
+      "tamanho_zip": 3002249
     }
   }
 }
